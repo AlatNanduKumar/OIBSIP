@@ -9,7 +9,7 @@ Users log in, book tickets (a unique PNR is generated), and cancel bookings usin
 
 | Login | Access denied |
 |---|---|
-| ![[Login](1_login.png)| ![Denied](docs/2_login_denied.png) |
+| ![screenshots/1_login.png)| ![Denied](docs/2_login_denied.png) |
 
 | Reservation form (train name auto-fills) | Input validation |
 |---|---|
